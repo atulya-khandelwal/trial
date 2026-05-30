@@ -1,1 +1,1 @@
-print("chliye nike")
+print("chlo phuch gye")
